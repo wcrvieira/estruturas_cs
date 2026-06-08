@@ -1,3 +1,3 @@
-# estruturas_cs
+# Estruturas de repetição
 Algoritmos com estruturas de repetição .Net e C Sharp no modo console
-<img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/4231b186-2a77-4f35-b5eb-14b75c6710ca" />
+<img width="1291" height="615" alt="image" src="https://github.com/user-attachments/assets/6acebe0d-7ad8-47ed-b663-a0eceff2672b" />
